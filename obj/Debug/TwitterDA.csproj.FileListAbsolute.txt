@@ -1,0 +1,18 @@
+C:\projects\TwitterFriends\TwitterDA\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\TwitterFriends\TwitterDA\bin\Debug\TwitterDA.dll
+C:\projects\TwitterFriends\TwitterDA\bin\Debug\TwitterDA.pdb
+C:\projects\TwitterFriends\TwitterDA\obj\Debug\TwitterDA.dll
+C:\projects\TwitterFriends\TwitterDA\obj\Debug\TwitterDA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\TwitterFriends\TwitterDA\bin\Debug\TwitterDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\TwitterFriends\TwitterDA\bin\Debug\TwitterDA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\TwitterFriends\TwitterDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\TwitterFriends\TwitterDA\obj\Debug\TwitterDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\TwitterFriends\TwitterDA\obj\Debug\TwitterDA.pdb
+C:\Users\wspaetzel\Documents\Projects\TwitterDA\bin\Debug\TwitterDA.dll
+C:\Users\wspaetzel\Documents\Projects\TwitterDA\bin\Debug\TwitterDA.pdb
+C:\Users\wspaetzel\Documents\Projects\TwitterDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Projects\TwitterDA\obj\Debug\TwitterDA.dll
+C:\Users\wspaetzel\Documents\Projects\TwitterDA\obj\Debug\TwitterDA.pdb
+C:\Users\wspaetzel\Documents\Projects\TwitterDA\bin\Debug\SpaetzelUtilities.dll
+C:\Users\wspaetzel\Documents\Projects\TwitterDA\bin\Debug\MySql.Data.dll
+C:\Users\wspaetzel\Documents\Projects\TwitterDA\bin\Debug\SpaetzelUtilities.pdb
