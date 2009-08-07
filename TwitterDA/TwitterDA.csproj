@@ -50,12 +50,7 @@
     <Compile Include="Twitter.cs" />
     <Compile Include="TwitterStatus.cs" />
     <Compile Include="TwitterUser.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\SpaetzelUtilities\SpaetzelUtilities.csproj">
-      <Project>{EEDE7484-C31C-4CE3-A058-6EF30955171C}</Project>
-      <Name>SpaetzelUtilities</Name>
-    </ProjectReference>
+    <Compile Include="Utilities.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
