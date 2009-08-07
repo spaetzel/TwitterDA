@@ -16,3 +16,8 @@ C:\Users\wspaetzel\Documents\Projects\TwitterDA\obj\Debug\TwitterDA.pdb
 C:\Users\wspaetzel\Documents\Projects\TwitterDA\bin\Debug\SpaetzelUtilities.dll
 C:\Users\wspaetzel\Documents\Projects\TwitterDA\bin\Debug\MySql.Data.dll
 C:\Users\wspaetzel\Documents\Projects\TwitterDA\bin\Debug\SpaetzelUtilities.pdb
+C:\Repositories\TwitterDA\TwitterDA\bin\Debug\TwitterDA.dll
+C:\Repositories\TwitterDA\TwitterDA\bin\Debug\TwitterDA.pdb
+C:\Repositories\TwitterDA\TwitterDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Repositories\TwitterDA\TwitterDA\obj\Debug\TwitterDA.dll
+C:\Repositories\TwitterDA\TwitterDA\obj\Debug\TwitterDA.pdb
