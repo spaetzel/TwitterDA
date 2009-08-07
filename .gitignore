@@ -1,3 +1,14 @@
-# use glob syntax.
-syntax: glob
-*~
+*.dll
+*.pdb
+*.suo
+*.Publish.xml
+*.tmproj
+.DS_Store
+*.cache
+*.manifest
+*/obj/*
+_ReSharper*
+*.scc
+obj/*
+bin
+Bin
